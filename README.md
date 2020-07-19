@@ -14,12 +14,22 @@ https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.htm
 1. Download and install [Intellij](https://www.jetbrains.com/idea/) and Google Chrome
 
 1. Open intellij and install plugin: Gradle
-<img width="800" alt="Screen Shot 2020-07-15 at 4 52 31 PM" src="https://user-images.githubusercontent.com/68395173/87865652-a49a8700-c93d-11ea-840b-0015bc0e34f6.png">
-<img width="800" alt="Screen Shot 2020-07-15 at 4 52 52 PM" src="https://user-images.githubusercontent.com/31392274/87865805-09a2ac80-c93f-11ea-8271-6f99e0d23937.png">
+<img width="600" alt="Screen Shot 2020-07-15 at 4 52 31 PM" src="https://user-images.githubusercontent.com/68395173/87865652-a49a8700-c93d-11ea-840b-0015bc0e34f6.png">
+<img width="600" alt="Screen Shot 2020-07-15 at 4 52 52 PM" src="https://user-images.githubusercontent.com/31392274/87865805-09a2ac80-c93f-11ea-8271-6f99e0d23937.png">
 1. In intelliJ configure SDK to use Java14
-<img width="800" alt="Screen Shot 2020-07-15 at 4 51 32 PM" src="https://user-images.githubusercontent.com/31392274/87865878-fc39f200-c93f-11ea-9f17-e3386c090a36.png">
-<img width="800" alt="Screen Shot 2020-07-15 at 4 52 02 PM" src="https://user-images.githubusercontent.com/31392274/87865894-268baf80-c940-11ea-88de-a7d991dc160a.png">
+<img width="600" alt="Screen Shot 2020-07-15 at 4 51 32 PM" src="https://user-images.githubusercontent.com/31392274/87865878-fc39f200-c93f-11ea-9f17-e3386c090a36.png">
+<img width="600" alt="Screen Shot 2020-07-15 at 4 52 02 PM" src="https://user-images.githubusercontent.com/31392274/87865894-268baf80-c940-11ea-88de-a7d991dc160a.png">
 1. Accept this [homework invitation](https://classroom.github.com/a/9wgJ8ily) and git clone the project to your computer
 1. Import the project as a Gradle project into Intellij
-<img width="780" alt="Screen Shot 2020-07-15 at 4 57 23 PM" src="https://user-images.githubusercontent.com/31392274/87865918-84b89280-c940-11ea-97b1-ed638e3a2afb.png">
-<img width="780" alt="Screen Shot" src="https://user-images.githubusercontent.com/31392274/87865931-a87bd880-c940-11ea-8927-101dcffe5f47.png">
+<img width="600" alt="Screen Shot 2020-07-15 at 4 57 23 PM" src="https://user-images.githubusercontent.com/31392274/87865918-84b89280-c940-11ea-97b1-ed638e3a2afb.png">
+<img width="600" alt="Screen Shot" src="https://user-images.githubusercontent.com/31392274/87865931-a87bd880-c940-11ea-8927-101dcffe5f47.png">
+1. Right click on the file with a green arrow to run the application and make sure that you can access http://localhost:8080 via browser
+<img width="600" alt="Screen Shot 2020-07-15 at 4 59 17 PM" src="https://user-images.githubusercontent.com/31392274/87865999-83d43080-c941-11ea-8abe-be4d689e1f08.png">
+1. You can also make a request by “curl” command in the terminal. Click the terminal button on the bottom left and type “curl http://localhost:8080”, press Enter
+<img width="600" alt="Screen Shot 2020-07-15 at 5 16 28 PM" src="https://user-images.githubusercontent.com/31392274/87866017-bc740a00-c941-11ea-9288-c964b9aa607a.png">
+1. Take a close look at the html content returned, yes, it is exactly the same as what you see in the browser. Try to make apost request and see what got returned by type “curl -X POST http://localhost:8080” in the terminal. You can also try to make different request to the endpoint http://localhost:8080 by following the [tutorial](https://curl.haxx.se/docs/manpage.html)
+1. Stop the application by click the red stop button on the bottom left
+<img width="600" alt="Screen Shot 2020-07-15 at 4 59 29 PM" src="https://user-images.githubusercontent.com/31392274/87866533-956d0680-c948-11ea-89e2-a2251a3d2ec3.png">
+1. Submit the following files
+A screenshot of the browser after it has loaded your application on http://localhost:8080
+A screenshot of the project imported into Intellij
