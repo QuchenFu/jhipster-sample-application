@@ -22,5 +22,4 @@ https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.htm
 1. Accept this [homework invitation](https://classroom.github.com/a/9wgJ8ily) and git clone the project to your computer
 1. Import the project as a Gradle project into Intellij
 <img width="780" alt="Screen Shot 2020-07-15 at 4 57 23 PM" src="https://user-images.githubusercontent.com/31392274/87865918-84b89280-c940-11ea-97b1-ed638e3a2afb.png">
-![Screenshot from 2020-07-18 22-00-50](https://user-images.githubusercontent.com/31392274/87865931-a87bd880-c940-11ea-8927-101dcffe5f47.png)
-
+<img width="780" alt="Screen Shot" src="https://user-images.githubusercontent.com/31392274/87865931-a87bd880-c940-11ea-8927-101dcffe5f47.png">
