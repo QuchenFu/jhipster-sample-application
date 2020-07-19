@@ -14,8 +14,7 @@ https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.htm
 1. Download and install [Intellij](https://www.jetbrains.com/idea/) and Google Chrome
 
 1. Open intellij and install plugin: Gradle
-  <img width="600" alt="Screen Shot 2020-07-15 at 4 52 31 PM" src="https://user-images.githubusercontent.com/68395173/87865652-a49a8700-c93d-11ea-840b-0015bc0e34f6.png">
-  <img width="600" alt="Screen Shot 2020-07-15 at 4 52 52 PM" src="https://user-images.githubusercontent.com/31392274/87865805-09a2ac80-c93f-11ea-8271-6f99e0d23937.png">
+<img width="600" alt="Screen Shot 2020-07-15 at 4 52 31 PM" src="https://user-images.githubusercontent.com/68395173/87865652-a49a8700-c93d-11ea-840b-0015bc0e34f6.png"> <img width="600" alt="Screen Shot 2020-07-15 at 4 52 52 PM" src="https://user-images.githubusercontent.com/31392274/87865805-09a2ac80-c93f-11ea-8271-6f99e0d23937.png">
 
 1. In intelliJ configure SDK to use Java14
 <img width="600" alt="Screen Shot 2020-07-15 at 4 51 32 PM" src="https://user-images.githubusercontent.com/31392274/87865878-fc39f200-c93f-11ea-9f17-e3386c090a36.png">
