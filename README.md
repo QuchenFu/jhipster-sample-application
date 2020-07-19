@@ -7,9 +7,9 @@ This application was generated using JHipster 6.10.1, you can find documentation
 This assignment requires a lot of development environment set up work. You should start early (e.g., before office hours). Almost all future assignments will build off of this set up work. Future assignments will assume and require that you completed this assignment successfully.
 Complete all of the steps listed below and then submit the items listed in the last step.
 
-1. Install java14/npm 
-https://mkyong.com/java/how-to-install-java-on-mac-osx/
-https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.html
+1. Install java14
+* [Mac:](https://mkyong.com/java/how-to-install-java-on-mac-osx/)
+* [Linux:](https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.html)
 
 2. Download and install [Intellij](https://www.jetbrains.com/idea/) and Google Chrome
 
