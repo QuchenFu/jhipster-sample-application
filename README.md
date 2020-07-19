@@ -39,5 +39,5 @@ https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.htm
 <img width="600" alt="Screen Shot 2020-07-15 at 4 59 29 PM" src="https://user-images.githubusercontent.com/31392274/87866533-956d0680-c948-11ea-89e2-a2251a3d2ec3.png">
 
 11. Submit the following files
-  1. A screenshot of the browser after it has loaded your application on http://localhost:8080
-  2. A screenshot of the project imported into Intellij
+* A screenshot of the browser after it has loaded your application on http://localhost:8080
+* A screenshot of the project imported into Intellij
