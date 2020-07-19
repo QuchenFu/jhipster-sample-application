@@ -8,8 +8,8 @@ This assignment requires a lot of development environment set up work. You shoul
 Complete all of the steps listed below and then submit the items listed in the last step.
 
 1. Install java14
-* [Mac:](https://mkyong.com/java/how-to-install-java-on-mac-osx/)
-* [Linux:](https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.html)
+* [Mac](https://mkyong.com/java/how-to-install-java-on-mac-osx/)
+* [Linux](https://www.linuxuprising.com/2020/03/how-to-install-oracle-java-14-jdk14-on.html)
 
 2. Download and install [Intellij](https://www.jetbrains.com/idea/) and Google Chrome
 
